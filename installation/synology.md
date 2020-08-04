@@ -52,7 +52,7 @@ If your NAS cannot connect to the internet, the installer will tell you to downl
 
 ## Configuration
 
-The location of configuration files by openHAB differs depending on wether or not a shared folder named `public` exists: 
+The location of configuration files by openHAB differs depending on whether or not a shared folder named `public` exists: 
 
 * with public share folder: `/volume1/public/openHAB2/conf/`
 * without public share folder: `/volume1/@appstore/openHAB2/conf/`
